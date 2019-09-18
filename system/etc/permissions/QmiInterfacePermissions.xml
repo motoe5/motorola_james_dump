@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <permission name="com.qualcomm.permission.QCOM_DIAG" >
+        <group gid="oem_2901" />
+    </permission>
+    <permission name="com.qualcomm.permission.QCOM_RADIO" >
+        <group gid="radio" />
+    </permission>
+    <permission name="com.qualcomm.permission.ACCESS_QCOM_QMI" >
+        <group gid="net_raw" />
+    </permission>
+</permissions>

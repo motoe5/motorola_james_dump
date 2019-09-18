@@ -1,0 +1,13 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=13
+ro.mot.base_buildid=OCP27.91-157/172
+ro.product.name=james_a
+ro.mot.build.oem.product=james_a
+ro.mot.build.customerid=a
+persist.rcs.supported=0
+persist.vendor.ims.dropset_feature=0
+persist.vendor.ims.playout_delay=10
+persist.vendor.ims.cam_sensor_delay=20
+persist.vendor.ims.display_delay=40

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <package name="com.att.myWireless">
+        <!--Google BZ :28153114  -->
+        <permission name="android.permission.RECEIVE_SMS"/>
+    </package>
+</permissions>

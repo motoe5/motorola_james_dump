@@ -1,0 +1,12 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=14
+ro.mot.base_buildid=OCP27.91-140/153
+ro.mot.build.customerid=sprint
+ro.telephony.default_network=10
+ro.carrier=sprint
+ro.csc.amazon.partnerid=sprint
+ro.facebook.partnerid=sprint:28a58a90-b569-4155-934f-bb9956cc12f1
+ro.product.name=james_sprint
+ro.mot.build.oem.product=james_sprint

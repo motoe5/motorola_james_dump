@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Google BugID b/31337798 -->
+<permissions>
+    <package name="com.sprint.ecid">
+        <!-- android.permission.group.PHONE -->
+        <permission name="android.permission.READ_PHONE_STATE"/>
+        <permission name="android.permission.READ_CALL_LOG"/>
+
+        <!-- android.permission.group.SMS -->
+        <permission name="android.permission.RECEIVE_SMS"/>
+        <permission name="android.permission.RECEIVE_MMS"/>
+        <permission name="android.permission.READ_SMS"/>
+        <permission name="android.permission.SEND_SMS"/>
+
+        <!-- android.permission.group.CONTACTS -->
+        <permission name="android.permission.READ_CONTACTS"/>
+        <permission name="android.permission.WRITE_CONTACTS"/>
+        <permission name="android.permission.GET_ACCOUNTS"/>
+
+    </package>
+</permissions>

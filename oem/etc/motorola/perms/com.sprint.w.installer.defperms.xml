@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <package name="com.sprint.w.installer">
+        <permission name="android.permission.CALL_PHONE"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+    </package>
+</permissions>

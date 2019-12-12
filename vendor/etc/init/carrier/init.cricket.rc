@@ -1,0 +1,10 @@
+on early-init
+    setprop persist.radio.customer_mbns att_usa_cricket_default.mbn;att_usa_ims.mbn
+    setprop ro.config.wallpaper /oem/cricket/media/wallpapers/wallpaper_james_cricket_01.jpg
+    setprop ro.product.model "moto e5 cruise"
+    setprop ro.vendor.product.model "moto e5 cruise"
+    setprop ro.product.display "moto e⁵ cruise"
+on post-fs-data
+    mkdir /data/Amazon\ Video/ 0755 system system
+    mkdir /data/Amazon\ Video/raw/ 0755 system system
+    symlink /oem/etc/cricket-amzn.mshop.properties data/Amazon\ Video/raw/amzn.mshop.properties

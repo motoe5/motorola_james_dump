@@ -1,0 +1,7 @@
+on early-init
+    setprop persist.radio.customer_mbns att_usa_ims_default.mbn;att_usa_cricket.mbn
+    setprop ro.config.wallpaper /oem/att/media/wallpapers/wallpaper_james_att_01.jpg
+    setprop ro.product.model "moto e5 play"
+    setprop ro.vendor.product.model "moto e5 play"
+    setprop ro.product.display "moto e⁵ play"
+    setprop ro.mot.ota.reserved.space "300"

@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Sep 16 05:46:18 CDT 2019
+ro.bootimage.build.date.utc=1568630778
+ro.bootimage.build.fingerprint=motorola/james_t/james:8.0.0/OCP27.91-150-14/1:user/release-keys
+

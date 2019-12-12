@@ -1,0 +1,11 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=1
+ro.product.name=james_t
+ro.mot.build.oem.product=james_t
+ro.mot.build.customerid=t
+persist.radio.customer_mbns=tmo_usa_ims_default.mbn
+persist.vendor.ims.playout_delay=10
+persist.vendor.ims.cam_sensor_delay=20
+persist.vendor.ims.display_delay=40

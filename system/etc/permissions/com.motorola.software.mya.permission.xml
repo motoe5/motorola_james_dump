@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name= "com.motorola.maya.permission.MAYA_SERVICE" >
+        <group gid="log" />
+    </permission>
+    <feature name="com.motorola.software.mya.callinmeeting" />
+</permissions>

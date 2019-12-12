@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+     <!-- Google bug ID 26444173 -->
+     <package name="com.smithmicro.netwise.director.cricket">
+         <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+         <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+         <permission name="android.permission.READ_PHONE_STATE"/>
+     </package>
+</permissions>

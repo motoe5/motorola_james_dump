@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="net.aetherpal.device">
+      <permission name="android.permission.UPDATE_APP_OPS_STATS"/>
+      <permission name="android.permission.LOCAL_MAC_ADDRESS"/>
+      <permission name="android.permission.REBOOT"/>
+      <permission name="android.permission.MANAGE_USERS"/>
+      <permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+      <permission name="android.permission.MODIFY_NETWORK_ACCOUNTING"/>
+      <permission name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+      <permission name="android.permission.REAL_GET_TASKS"/>
+      <permission name="android.permission.READ_FRAME_BUFFER"/>
+      <permission name="android.permission.DUMP"/>
+      <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+    </privapp-permissions>
+</permissions>

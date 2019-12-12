@@ -1,0 +1,24 @@
+
+
+HAB_PRODUCT rugby
+
+HAB_CUSTOMER_REGION Amazon
+
+OTA_KEY motorola/security/certs/hab_support/products/rugby/apk_certs_Amazon/ota.x509.pem
+
+
+This build is customer signed.
+
+Use "fastboot getvar cid" to confirm customer ID on secure HW.
+
+Value must be 0 (developer HW) or match this value:
+
+Amazon                => 18
+
+
+For signed build support, please see:
+
+motorola/security/certs/README.txt
+
+
+

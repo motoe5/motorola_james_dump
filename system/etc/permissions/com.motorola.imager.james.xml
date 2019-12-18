@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.james"
+       file="/system/framework/com.motorola.imager.james" />
+</permissions>

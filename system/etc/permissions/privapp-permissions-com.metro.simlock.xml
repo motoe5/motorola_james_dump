@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="com.metro.simlock">
+        <permission name="android.permission.REBOOT"/>
+    </privapp-permissions>
+</permissions>
+
